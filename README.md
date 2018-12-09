@@ -16,7 +16,7 @@ HTTPS (TCP)
 Crear un par de claves (pública y privada) para conectar por SSH con su instancia.
 
 Realizar la instalación del módulo de WordPress de Bitnami sobre la máquina.
-Puede encontrar más información sobre cómo realizar este paso en el archivo README del instalador del módulo de WordPress de Bitnami.
+
 
 ## Instalación del modulo de wordpress con bitnami.
 
